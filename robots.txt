@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://islamic-pi.vercel.app/sitemap.xml
